@@ -1,6 +1,10 @@
 # IndoorLocalization
 Questo progetto è un'applicazione per la mappatura indoor che consente agli utenti di caricare un'immagine di una planimetria e di modificarla aggiungendo elementi come quadrati e cerchi per rappresentare zone non calpestabili. L'applicazione consente inoltre di salvare l'immagine modificata per un uso futuro.
 
+## Prerequisiti  
+Utilizzare i seguenti comandi per utilizzare l'applicazione:
+- pip install Flask
+
 ## Funzionalità  
 - Caricamento dell'immagine: Gli utenti possono caricare un'immagine della planimetria dall'archivio locale del dispositivo.
 
